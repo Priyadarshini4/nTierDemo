@@ -1,0 +1,4 @@
+F:\Projects\nTierDemo\DAL\DAL\bin\Debug\DAL.dll
+F:\Projects\nTierDemo\DAL\DAL\bin\Debug\DAL.pdb
+F:\Projects\nTierDemo\DAL\DAL\obj\Debug\DAL.dll
+F:\Projects\nTierDemo\DAL\DAL\obj\Debug\DAL.pdb

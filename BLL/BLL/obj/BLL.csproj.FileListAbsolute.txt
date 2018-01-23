@@ -1,0 +1,7 @@
+C:\RahulSingh\TestProjects\nTierDemo\BLL\BLL\bin\Debug\BLL.dll
+C:\RahulSingh\TestProjects\nTierDemo\BLL\BLL\bin\Debug\BLL.pdb
+C:\RahulSingh\TestProjects\nTierDemo\BLL\BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\RahulSingh\TestProjects\nTierDemo\BLL\BLL\obj\Debug\BLL.dll
+C:\RahulSingh\TestProjects\nTierDemo\BLL\BLL\obj\Debug\BLL.pdb
+C:\RahulSingh\TestProjects\nTierDemo\BLL\BLL\bin\Debug\DAL.dll
+C:\RahulSingh\TestProjects\nTierDemo\BLL\BLL\bin\Debug\DAL.pdb

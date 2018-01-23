@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Tahoma" Size="8.25" />
+  <Class Name="DAL.Employee">
+    <Position X="1.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Employee.cs</FileName>
+      <HashCode>AAKAAEAAwABAAEAIIAAACCAAAAIAAwACAAEACAAAAAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.EmployeeDBAccess">
+    <Position X="3.5" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>EmployeeDBAccess.cs</FileName>
+      <HashCode>CAAAAAAAAAIAAAAAAAgAAAAAAAAAAAAIAAAgAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DAL.SqlDBHelper">
+    <Position X="3.5" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <FileName>SqlDBHelper.cs</FileName>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAEAAAAAQAAAAAAAgAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
